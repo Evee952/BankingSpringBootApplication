@@ -13,5 +13,5 @@ azure
 20.83.227.148
 
 [azure:vars]
-ansible_ssh_user=devops
-ansible_ssh_pass="{{ ansible_password }}"
+ansible_ssh_user=Azureapplicationserver
+ansible_ssh_pass="Shivsheru952"
