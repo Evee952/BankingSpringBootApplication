@@ -10,7 +10,7 @@ azure
 #ansible_ssh_private_key_file="{{ key_pair_path }}"
 
 [azure]
-20.83.227.148
+57.151.99.33
 
 [azure:vars]
 ansible_ssh_user=Azureapplicationserver
